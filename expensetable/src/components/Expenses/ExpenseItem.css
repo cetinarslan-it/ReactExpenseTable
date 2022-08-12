@@ -29,10 +29,12 @@
     font-size: 1rem;
     font-weight: bold;
     color: white;
-    background-color: #40005d;
+    background-color: gray;
     border: 1px solid white;
     padding: 0.5rem;
     border-radius: 12px;
+    width: 7rem;
+    text-align: center;
   }
   
   @media (min-width: 580px) {
